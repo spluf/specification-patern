@@ -1,0 +1,79 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33122.133
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Server", "Server", "{2E261C68-30FC-48CE-ACFC-B5123038B456}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Clients", "Clients", "{6F7B2225-6E9A-4F5B-93AB-F0DA90D44096}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Capon.Web", "Capon.Web", "{D316FA41-B125-4158-BEA3-7DDFA037A3EC}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Services", "Services", "{85B61425-C366-4B85-AF5E-766835A57661}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Users", "Users", "{F9673851-7720-471E-BCC7-BCD366D13CDE}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CapOn.Users.Api", "Server\Services\Users\CapOn.Users.Api\CapOn.Users.Api.csproj", "{34E3DD7C-1BA7-4182-8DE4-74DF1CA8AB40}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Common", "Common", "{720A6C32-046E-487C-BA0B-ED004ADB67D4}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Capon.Users.Domain", "Server\Services\Users\Capon.Users.Domain\Capon.Users.Domain.csproj", "{ACDECCED-DAE5-4BA0-A558-012199D0398A}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Capon.Users.Application", "Server\Services\Users\Capon.Users.Application\Capon.Users.Application.csproj", "{F7CB1742-E159-461E-9C61-CE0CA9D7287B}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Capon.Users.Persistance", "Server\Services\Users\Capon.Users.Persistance\Capon.Users.Persistance.csproj", "{E697B909-F2B9-4610-8D4E-33FCF55B2060}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Capon.Users.Manager", "Server\Services\Users\Capon.Users.Manager\Capon.Users.Manager.csproj", "{AB37486C-9E76-46FE-8FB3-39776EE5F33D}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Capon.Users.ServiceBuilder", "Server\Services\Users\Capon.Users.ServiceBuilder\Capon.Users.ServiceBuilder.csproj", "{78462D23-E05A-4DFF-A9D4-5B34A708CF82}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{34E3DD7C-1BA7-4182-8DE4-74DF1CA8AB40}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{34E3DD7C-1BA7-4182-8DE4-74DF1CA8AB40}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{34E3DD7C-1BA7-4182-8DE4-74DF1CA8AB40}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{34E3DD7C-1BA7-4182-8DE4-74DF1CA8AB40}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ACDECCED-DAE5-4BA0-A558-012199D0398A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ACDECCED-DAE5-4BA0-A558-012199D0398A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ACDECCED-DAE5-4BA0-A558-012199D0398A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ACDECCED-DAE5-4BA0-A558-012199D0398A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F7CB1742-E159-461E-9C61-CE0CA9D7287B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F7CB1742-E159-461E-9C61-CE0CA9D7287B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F7CB1742-E159-461E-9C61-CE0CA9D7287B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F7CB1742-E159-461E-9C61-CE0CA9D7287B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E697B909-F2B9-4610-8D4E-33FCF55B2060}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E697B909-F2B9-4610-8D4E-33FCF55B2060}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E697B909-F2B9-4610-8D4E-33FCF55B2060}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E697B909-F2B9-4610-8D4E-33FCF55B2060}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AB37486C-9E76-46FE-8FB3-39776EE5F33D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AB37486C-9E76-46FE-8FB3-39776EE5F33D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AB37486C-9E76-46FE-8FB3-39776EE5F33D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AB37486C-9E76-46FE-8FB3-39776EE5F33D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{78462D23-E05A-4DFF-A9D4-5B34A708CF82}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{78462D23-E05A-4DFF-A9D4-5B34A708CF82}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{78462D23-E05A-4DFF-A9D4-5B34A708CF82}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{78462D23-E05A-4DFF-A9D4-5B34A708CF82}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{D316FA41-B125-4158-BEA3-7DDFA037A3EC} = {6F7B2225-6E9A-4F5B-93AB-F0DA90D44096}
+		{85B61425-C366-4B85-AF5E-766835A57661} = {2E261C68-30FC-48CE-ACFC-B5123038B456}
+		{F9673851-7720-471E-BCC7-BCD366D13CDE} = {85B61425-C366-4B85-AF5E-766835A57661}
+		{34E3DD7C-1BA7-4182-8DE4-74DF1CA8AB40} = {F9673851-7720-471E-BCC7-BCD366D13CDE}
+		{720A6C32-046E-487C-BA0B-ED004ADB67D4} = {2E261C68-30FC-48CE-ACFC-B5123038B456}
+		{ACDECCED-DAE5-4BA0-A558-012199D0398A} = {F9673851-7720-471E-BCC7-BCD366D13CDE}
+		{F7CB1742-E159-461E-9C61-CE0CA9D7287B} = {F9673851-7720-471E-BCC7-BCD366D13CDE}
+		{E697B909-F2B9-4610-8D4E-33FCF55B2060} = {F9673851-7720-471E-BCC7-BCD366D13CDE}
+		{AB37486C-9E76-46FE-8FB3-39776EE5F33D} = {F9673851-7720-471E-BCC7-BCD366D13CDE}
+		{78462D23-E05A-4DFF-A9D4-5B34A708CF82} = {F9673851-7720-471E-BCC7-BCD366D13CDE}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9F2FE8EE-E748-41C4-BAA7-62EE0733E86A}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "owIUA45GutUiPtba/BgolsqeulTT9QDpZsjL9e743RM=",
+  "Source": "CapOn.Users.Api",
+  "BasePath": "_content/CapOn.Users.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

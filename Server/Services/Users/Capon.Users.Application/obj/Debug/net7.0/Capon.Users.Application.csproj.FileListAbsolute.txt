@@ -1,0 +1,15 @@
+C:\Users\cosmi\source\repos\CapOn\Server\Services\Users\Capon.Users.Application\bin\Debug\net7.0\Capon.Users.Application.deps.json
+C:\Users\cosmi\source\repos\CapOn\Server\Services\Users\Capon.Users.Application\bin\Debug\net7.0\Capon.Users.Application.dll
+C:\Users\cosmi\source\repos\CapOn\Server\Services\Users\Capon.Users.Application\bin\Debug\net7.0\Capon.Users.Application.pdb
+C:\Users\cosmi\source\repos\CapOn\Server\Services\Users\Capon.Users.Application\bin\Debug\net7.0\Capon.Users.Domain.dll
+C:\Users\cosmi\source\repos\CapOn\Server\Services\Users\Capon.Users.Application\bin\Debug\net7.0\Capon.Users.Domain.pdb
+C:\Users\cosmi\source\repos\CapOn\Server\Services\Users\Capon.Users.Application\obj\Debug\net7.0\Capon.Users.Application.csproj.AssemblyReference.cache
+C:\Users\cosmi\source\repos\CapOn\Server\Services\Users\Capon.Users.Application\obj\Debug\net7.0\Capon.Users.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cosmi\source\repos\CapOn\Server\Services\Users\Capon.Users.Application\obj\Debug\net7.0\Capon.Users.Application.AssemblyInfoInputs.cache
+C:\Users\cosmi\source\repos\CapOn\Server\Services\Users\Capon.Users.Application\obj\Debug\net7.0\Capon.Users.Application.AssemblyInfo.cs
+C:\Users\cosmi\source\repos\CapOn\Server\Services\Users\Capon.Users.Application\obj\Debug\net7.0\Capon.Users.Application.csproj.CoreCompileInputs.cache
+C:\Users\cosmi\source\repos\CapOn\Server\Services\Users\Capon.Users.Application\obj\Debug\net7.0\Capon.Users.Application.csproj.CopyComplete
+C:\Users\cosmi\source\repos\CapOn\Server\Services\Users\Capon.Users.Application\obj\Debug\net7.0\Capon.Users.Application.dll
+C:\Users\cosmi\source\repos\CapOn\Server\Services\Users\Capon.Users.Application\obj\Debug\net7.0\refint\Capon.Users.Application.dll
+C:\Users\cosmi\source\repos\CapOn\Server\Services\Users\Capon.Users.Application\obj\Debug\net7.0\Capon.Users.Application.pdb
+C:\Users\cosmi\source\repos\CapOn\Server\Services\Users\Capon.Users.Application\obj\Debug\net7.0\ref\Capon.Users.Application.dll

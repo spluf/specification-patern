@@ -1,0 +1,15 @@
+C:\Users\cosmi\source\repos\CapOn\Server\Services\Users\Capon.Users.Manager\bin\Debug\net7.0\Capon.Users.Manager.deps.json
+C:\Users\cosmi\source\repos\CapOn\Server\Services\Users\Capon.Users.Manager\bin\Debug\net7.0\Capon.Users.Manager.dll
+C:\Users\cosmi\source\repos\CapOn\Server\Services\Users\Capon.Users.Manager\bin\Debug\net7.0\Capon.Users.Manager.pdb
+C:\Users\cosmi\source\repos\CapOn\Server\Services\Users\Capon.Users.Manager\bin\Debug\net7.0\Capon.Users.Domain.dll
+C:\Users\cosmi\source\repos\CapOn\Server\Services\Users\Capon.Users.Manager\bin\Debug\net7.0\Capon.Users.Domain.pdb
+C:\Users\cosmi\source\repos\CapOn\Server\Services\Users\Capon.Users.Manager\obj\Debug\net7.0\Capon.Users.Manager.csproj.AssemblyReference.cache
+C:\Users\cosmi\source\repos\CapOn\Server\Services\Users\Capon.Users.Manager\obj\Debug\net7.0\Capon.Users.Manager.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cosmi\source\repos\CapOn\Server\Services\Users\Capon.Users.Manager\obj\Debug\net7.0\Capon.Users.Manager.AssemblyInfoInputs.cache
+C:\Users\cosmi\source\repos\CapOn\Server\Services\Users\Capon.Users.Manager\obj\Debug\net7.0\Capon.Users.Manager.AssemblyInfo.cs
+C:\Users\cosmi\source\repos\CapOn\Server\Services\Users\Capon.Users.Manager\obj\Debug\net7.0\Capon.Users.Manager.csproj.CoreCompileInputs.cache
+C:\Users\cosmi\source\repos\CapOn\Server\Services\Users\Capon.Users.Manager\obj\Debug\net7.0\Capon.Users.Manager.csproj.CopyComplete
+C:\Users\cosmi\source\repos\CapOn\Server\Services\Users\Capon.Users.Manager\obj\Debug\net7.0\Capon.Users.Manager.dll
+C:\Users\cosmi\source\repos\CapOn\Server\Services\Users\Capon.Users.Manager\obj\Debug\net7.0\refint\Capon.Users.Manager.dll
+C:\Users\cosmi\source\repos\CapOn\Server\Services\Users\Capon.Users.Manager\obj\Debug\net7.0\Capon.Users.Manager.pdb
+C:\Users\cosmi\source\repos\CapOn\Server\Services\Users\Capon.Users.Manager\obj\Debug\net7.0\ref\Capon.Users.Manager.dll
